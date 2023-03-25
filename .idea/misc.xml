@@ -9,12 +9,14 @@
     <file type="web" url="file://$PROJECT_DIR$/sp4-chap03" />
     <file type="web" url="file://$PROJECT_DIR$/sp5-chap02" />
     <file type="web" url="file://$PROJECT_DIR$/sp5-chap03" />
+    <file type="web" url="file://$PROJECT_DIR$/sp5-chap04" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/sp5-chap02/pom.xml" />
         <option value="$PROJECT_DIR$/sp5-chap03/pom.xml" />
+        <option value="$PROJECT_DIR$/sp5-chap04/pom.xml" />
       </list>
     </option>
   </component>
